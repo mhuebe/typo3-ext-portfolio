@@ -1,2 +1,2 @@
-# typo3-portfolio
+# typo3-ext-portfolio
 Portfolio shows your work and projects.
